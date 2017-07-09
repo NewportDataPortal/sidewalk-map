@@ -1,11 +1,8 @@
-# Newport Sidewalk Mapping Project
+# Newport Sidewalk Map
 
-The goal of this project is to create a map focusing on walkability in Newport.
-
-## About the map
 This dataset will capture pedestrian rights of way, such as sidewalks and crosswalks. It treats vehicle roads as barriers.  
 
-The source data for the map is from ground surveys, using [OpenStreetMap](http://www.openstreetmap.org) for geographic reference.
+The source data for the map is from ground surveys, using [OpenStreetMap](http://www.openstreetmap.org) for geographic reference. The mapping project page can be found at [newportdata.org/sidewalk-project](http://www.newportdataproject.org/sidewalk-project).
 
 ## Contributing
 This map is an open project, so contributions are welcomed! There are a few ways to contribute:
