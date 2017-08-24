@@ -8,7 +8,7 @@ The source data for the map is from ground surveys, using [OpenStreetMap](http:/
 This map is an open project, so contributions are welcomed! There are a few ways to contribute:
 
 ### Open an issue
-For simple comments to the map, like adding a missing sidewalk or identifying an error open an issue in this repository, create an issue.
+For simple comments to the map, like adding a missing sidewalk or identifying an error, [open an issue](https://github.com/NewportDataPortal/sidewalk-map/issues/new).
 
 ### Use a GIS system
 You can download the dataset and edit it using GIS software like [qgis](http://www.qgis.org).
